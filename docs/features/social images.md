@@ -336,7 +336,7 @@ export const customImage: SocialImageOptions["imageStructure"] = (
 >         }}
 >       >
 >         <img
->           src={`"https://${cfg.baseUrl}/static/icon.jpeg"`}
+>           src={`"/static/icon.png"`}
 >           style={{
 >             position: "relative",
 >             backgroundClip: "border-box",

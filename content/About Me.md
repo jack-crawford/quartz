@@ -1,7 +1,6 @@
 ---
 title: About Me
 ---
-
 I am a writer and software developer based in Washington D.C., focused on building software and telling stories that emphasize the best in humanity.
 
 I work at [threshold.world](https://threshold.world) where I lead development on [b.world](https://b.world), an impact measurement and storytelling platform.

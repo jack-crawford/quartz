@@ -135,7 +135,7 @@ async function startServing(
     persistent: true,
     cwd: argv.directory,
     ignoreInitial: true,
-  })
+  }) 
 
   const buildFromEntry = argv.fastRebuild ? partialRebuildFromEntrypoint : rebuildFromEntrypoint
   watcher

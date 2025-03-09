@@ -1,0 +1,14 @@
+![[Clover-RegardlessSexMen-1993.pdf]]
+
+#on #tolkien #notes [[Tolkien Notes]]
+Essentially, Clover’s argument is that the primary gender spectrum in Viking/Old Norse times was not female-male, but *blauðr-hvatr*, which really means something like weak-bold/strong and simply carries gendered implications much of the time. The argument could be made that this is only gender in that gender is a form of social expression of fundamental category, and is closer to a spectrum of social hierarchy. 
+
+Women are, typically, *blauðr*, but they can leave that category and become *hvatr* based on legal circumstance (inheritance, widowing, etc) or extraordinary action (war-making, violence). If a man does something cowardly, or allows himself to be penetrated anally, or even simply reaches elderly infirmity, he goes from being *hvatr* to *blauðr*. 
+
+“The point here is not that there is no notion of sexual difference but that the difference was conceived less as a set of absolute opposites than as a system of isomorphic analogues, the superior male set working as a visible map to the invisible and inferior female set — for the one sex in question was essentially male, women being viewed as ‘inverted, and less perfect, men’” (377).
+
+“The ‘conditions’ that mattered in the north— the ‘conditions’ that pushed a person into another status— worked not so much at the level of the body, but at the level of social relations” (378-379).
+
+“Again, it seems likely that Norse society operated according to a one-sex model—that there was one sex and it was male. More to the point, there was finally just one "gender," one standard by which persons were judged adequate or inadequate, and it was something like masculine. **What finally excites fear and loathing in the Norse mind is not femaleness per se, but the condition of powerlessness, the lack or loss of volition, with which femaleness is typically, but neither inevitably nor exclusively, associated.** By the same token, what prompts admiration is not maleness per se, but sovereignty of the sort enjoyed mostly and typically and ideally, but not solely, by men. This is in any case not a world in which the sexes are opposite or antithetical or polar or complementary (to return again to the modern apparatus). On the contrary, it is a world in which gender, if we can even call it that, is neither coextensive with biological sex, despite its dependence on sexual imagery, nor a closed system, but **a system based to an extraordinary extent on winnable and losable attributes**” (379).
+
+“What I am suggesting is that this is the binary, the one that cuts most deeply and the one that matters: between strong and weak, powerful and powerless or disempowered, swordworthy and unswordworthy, honored and unhonored or dishonored, winners and losers“ (380).

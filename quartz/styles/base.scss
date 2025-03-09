@@ -233,7 +233,7 @@ a {
     & .page-footer {
       margin-top: 1rem;
     }
-
+    
     & .page-header {
       grid-area: grid-header;
       margin: $topSpacing 0 0 0;
@@ -250,7 +250,9 @@ a {
     & footer {
       grid-area: grid-footer;
     }
-
+    & footer p, footer ul li a {
+      font-size: 0.9rem;
+    }
     & .center,
     & footer {
       max-width: 100%;
@@ -472,9 +474,12 @@ code {
 tbody,
 li,
 p {
-  line-height: 1.6rem;
+  line-height: 1.8rem;
+  font-size: 1.5rem;
 }
-
+.properwriting p {
+  text-indent: 1.5rem;
+}
 .table-container {
   overflow-x: auto;
 
@@ -512,7 +517,7 @@ tr {
 }
 
 img {
-  max-width: 100%;
+  max-width: 50%;
   border-radius: 5px;
   margin: 1rem 0;
   content-visibility: auto;
